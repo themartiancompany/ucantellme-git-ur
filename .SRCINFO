@@ -1,0 +1,21 @@
+pkgbase = pcantellme-git
+	pkgdesc = A passphrase prompter.
+	pkgver = 0.0.0.0.0.1.1.r9.g137f7a6
+	pkgrel = 1
+	url = https://github.com/themartiancompany/pcantellme
+	arch = any
+	groups = hip
+	groups = hip-git
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = git
+	depends = bash
+	depends = libcrash-bash
+	optdepends = python-pygments: colorized output
+	optdepends = python2-pygments: colorized output
+	provides = pcantellme=0.0.0.0.0.1.1.r9.g137f7a6
+	conflicts = pcantellme
+	source = git+https://github.com/themartiancompany/pcantellme#branch=master
+	sha256sums = SKIP
+
+pkgname = pcantellme-git
