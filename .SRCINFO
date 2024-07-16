@@ -1,8 +1,8 @@
-pkgbase = pcantellme-git
+pkgbase = ucantellme-git
 	pkgdesc = A passphrase prompter.
 	pkgver = 0.0.0.0.0.1.1.r9.g137f7a6
 	pkgrel = 1
-	url = https://github.com/themartiancompany/pcantellme
+	url = https://github.com/themartiancompany/ucantellme
 	arch = any
 	groups = hip
 	groups = hip-git
@@ -13,9 +13,9 @@ pkgbase = pcantellme-git
 	depends = libcrash-bash
 	optdepends = python-pygments: colorized output
 	optdepends = python2-pygments: colorized output
-	provides = pcantellme=0.0.0.0.0.1.1.r9.g137f7a6
-	conflicts = pcantellme
-	source = git+https://github.com/themartiancompany/pcantellme#branch=master
+	provides = ucantellme=0.0.0.0.0.1.1.r9.g137f7a6
+	conflicts = ucantellme
+	source = git+https://github.com/themartiancompany/ucantellme#branch=master
 	sha256sums = SKIP
 
-pkgname = pcantellme-git
+pkgname = ucantellme-git

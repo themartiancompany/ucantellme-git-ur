@@ -6,7 +6,7 @@
 _py="python"
 _py2="${_py}2"
 _proj="hip"
-_pkgname=pcantellme
+_pkgname=ucantellme
 pkgname="${_pkgname}-git"
 pkgver=0.0.0.0.0.1.1.r9.g137f7a6
 pkgrel=1
