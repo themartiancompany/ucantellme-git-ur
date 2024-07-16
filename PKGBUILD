@@ -8,7 +8,7 @@ _py2="${_py}2"
 _proj="hip"
 _pkgname=ucantellme
 pkgname="${_pkgname}-git"
-pkgver=0.0.0.0.0.1.1.r9.g137f7a6
+pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.gc69c1e4
 pkgrel=1
 _pkgdesc=(
   "A passphrase"
